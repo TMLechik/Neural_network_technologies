@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\alesh\PycharmProjects\PythonProject\GITHUB\Neural_network_technologies\HW_6_DVC\tmp\dvcstore
